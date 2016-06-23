@@ -1,3 +1,3 @@
-describe('gulp-reload', function() {
+describe('gulp-reload', function () {
 
-})
+});
